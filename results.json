@@ -1,0 +1,30 @@
+[
+    {
+        "Temperature": -13.5,
+        "Wind Speed": 12.4,
+        "Time": "2026-01-28T21:00",
+        "Timezone": "GMT",
+        "Wind Condition": "Breezy"
+    },
+    {
+        "Temperature": -28.0,
+        "Wind Speed": 21.3,
+        "Time": "2026-01-28T21:00",
+        "Timezone": "GMT",
+        "Wind Condition": "Windy"
+    },
+    {
+        "Temperature": 20.1,
+        "Wind Speed": 2.9,
+        "Time": "2026-01-28T21:00",
+        "Timezone": "GMT",
+        "Wind Condition": "Calm"
+    },
+    {
+        "Temperature": 5.7,
+        "Wind Speed": 3.6,
+        "Time": "2026-01-28T21:15",
+        "Timezone": "GMT",
+        "Wind Condition": "Calm"
+    }
+]
