@@ -44,6 +44,6 @@ def home():
 def get_weather(latitude: float, longitude: float):
     return fetch_weather(latitude, longitude)
 
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run("main:app", host="0.0.0.0", port=8000)
+# if __name__ == "__main__":
+#     import uvicorn
+#     uvicorn.run("main:app", host="0.0.0.0", port=8000)
